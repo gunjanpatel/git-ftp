@@ -1,0 +1,5 @@
+repodir=/var/www/html/mysite
+username=gunjan
+password=xxxxxxxx
+hostname=ftp://xxxxxx
+remotepath=/public_html
